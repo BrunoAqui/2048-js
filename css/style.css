@@ -1,0 +1,29 @@
+body{
+    background-color: #5FE8B9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containerGame{
+    width: 540px;
+    height: 540px;
+    border-radius: 5px;
+    background-color: #FFF64D;
+    padding: 5px;
+}
+.house{
+    border-radius: 10px;
+    width: 125px;
+    height: 125px;
+    margin: 5px;
+    background-color: #5791FF;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.houseTxt{
+    font-size: 100px;
+    font-family: Arial;
+    color: #f7f7f7;
+}
